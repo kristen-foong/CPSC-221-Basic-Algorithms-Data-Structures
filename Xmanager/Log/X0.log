@@ -1,0 +1,508 @@
+Xmanager 6007
+Copyright (c) 1997 NetSarang Computer, Inc.
+All rights reserved.
+
+UTC Date:	Tue Jan 14 18:41:21 2020
+Local Date:	Tue Jan 14 10:41:21 2020
+
+Compiler version: 170060610
+X Server Directory: "C:\Program Files (x86)\NetSarang\Xmanager 6\"
+LANG ID: 1033
+Session File: Not specified.
+Connection Method: 0
+Xdmcp UDP Port: 177
+Xdmcp Host: ''
+Product Code: 0
+License Type: 2
+
+Server Generation 1
+Server profile: %system%\Default Profile.xcf
+Desktop composition is enabled.
+Default Display Number: 0
+Local Time:	Tue Jan 14 10:41:22 2020
+
+============ Global Memory Status ==========
+  Memory Load               :      68%
+  Total Physical Memory     :    8117 Mbytes
+  Available Physical Memory :    2516 Mbytes
+  Total Page File           :   17333 Mbytes
+  Available Page File       :    6289 Mbytes
+  Total Virtual             :    4095 Mbytes
+  Available Virtual         :    3949 Mbytes
+=============================================
+
+<Hardware information>
+  Processor architecture: 0
+  Number of processors: 8
+  Page size: 4096
+  Processor type: 586
+  Minimum application address: 10000
+  Maximum application address: fffeffff
+  Active processor mask: 255
+  Allocation granularity: 65536
+  Processor level: 6
+  Processor revision: 0x8e0a
+
+<OS Version Information>
+  Platform id   : 2
+  Major Version : 6
+  Minor Version : 2
+  Build Number  : 9200
+  Description   : ""
+  Country Code  : 1
+  Country String: Canada
+  ANSI Code Page: 1252
+  Language ID   : 9
+
+WinSock Version 2.2 is selected.
+Highest Version 2.2
+Description: WinSock 2.0
+System Status: Running
+Max Sockets: 0
+Max UDP Datagram: 0
+Local Hostname: 'DESKTOP-J35DSJP'
+RGB database: C:\Program Files (x86)\NetSarang\Xmanager 6\rgb\rgb.txt
+Local Address: fe80::7cc1:2fb:7684:3196
+Local Address: 128.189.71.67
+Local Address: ::1
+Local Address: 127.0.0.1
+Listening port: 6000
+Window Mode:               1
+Primary Screen Resolution:         1504 x 1003
+Size of Palette:           0
+Number of Reserved Colors: 0
+Resolution of Color:       24
+Depth of Screen:           32
+Maximum Cursor Width:      32
+Maximum Cursor Height:     32
+Frame Width:               8
+Frame Height:              8
+Border Width:              1
+Border Height:             1
+Maximum Client Area Width: 1504
+Maximum Client Area Height:940
+Icon Width:                32
+Icon Height:               32
+Small Icon Width:          16
+Small Icon Height:         16
+Caption Height:            23
+Shade Blend Pixel Alpha:   1
+DBCS Enabled:              0
+GDI batch limit:           20
+
+Mouse buttons: 2
+Waveform Output Devices: 1
+Mouse wheel present: 0
+
+Monitors: 1
+Selected Monitor: V
+Same display format: 1
+Virtual screen x 0, y 0, w 1504 h 1003
+Root Window x 0, y 0, w 1504, h 963
+Exact StoreColor: 0
+Reverse RGB Order: 0
+
+Screen 0: 1504 x 963, depth 24, dpi 96 x 96
+Extension added: SHAPE, proc 128, event 64, error 0
+Extension added: Extended-Visual-Information, proc 129, event 0, error 0
+Extension added: XInputExtension, proc 130, event 65, error 128
+Extension added: XTEST, proc 131, event 0, error 0
+Extension added: BIG-REQUESTS, proc 132, event 0, error 0
+Extension added: MIT-SUNDRY-NONSTANDARD, proc 133, event 0, error 0
+Extension added: DEC-XTRAP, proc 134, event 80, error 133
+Extension added: SYNC, proc 135, event 81, error 142
+Extension added: XKEYBOARD, proc 136, event 83, error 144
+Extension added: XC-MISC, proc 137, event 0, error 0
+Extension added: RECORD, proc 138, event 0, error 145
+Extension added: DOUBLE-BUFFER, proc 139, event 0, error 146
+Extension added: XC-APPGROUP, proc 140, event 0, error 147
+Extension added: SECURITY, proc 141, event 84, error 148
+Extension added: TOG-CUP, proc 142, event 0, error 0
+Extension added: DPMS, proc 143, event 0, error 0
+Extension added: XFree86-Bigfont, proc 144, event 0, error 0
+Extension added: GLX, proc 145, event 85, error 150
+Extension added: XFIXES, proc 146, event 102, error 162
+Extension added: RENDER, proc 147, event 0, error 163
+Extension added: RANDR, proc 148, event 104, error 0
+Extension added: X-Resource, proc 149, event 0, error 0
+Extension added: DAMAGE, proc 150, event 105, error 168
+Keyboard: Type = 4, Subtype = 0, Function keys = 12
+Keyboad Layout: US (00000409)
+Found a matching keyboard layout: English (USA)
+Model: pc105, Layout: us, Variant: none, Options: none
+Keyboard layout to be used:
+Rules: xorg, Model: pc105, Layout: us, Variant: none, Options: none
+Running Xsound...
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Waiting for client connections ...
+
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Exiting the waiting loop ...
+
+FreeFontPath: FPE "C:\Program Files (x86)\NetSarang\Xmanager 6\fonts\Misc" refcount is 2, should be 1; fixing.
+
+Server Generation 2
+Server profile: %system%\Default Profile.xcf
+Desktop composition is enabled.
+Local Time:	Tue Jan 14 10:41:26 2020
+
+============ Global Memory Status ==========
+  Memory Load               :      68%
+  Total Physical Memory     :    8117 Mbytes
+  Available Physical Memory :    2566 Mbytes
+  Total Page File           :   17333 Mbytes
+  Available Page File       :    6230 Mbytes
+  Total Virtual             :    4095 Mbytes
+  Available Virtual         :    3957 Mbytes
+=============================================
+Window Mode:               1
+Primary Screen Resolution:         1504 x 1003
+Size of Palette:           0
+Number of Reserved Colors: 0
+Resolution of Color:       24
+Depth of Screen:           32
+Maximum Cursor Width:      32
+Maximum Cursor Height:     32
+Frame Width:               8
+Frame Height:              8
+Border Width:              1
+Border Height:             1
+Maximum Client Area Width: 1504
+Maximum Client Area Height:940
+Icon Width:                32
+Icon Height:               32
+Small Icon Width:          16
+Small Icon Height:         16
+Caption Height:            23
+Shade Blend Pixel Alpha:   1
+DBCS Enabled:              0
+GDI batch limit:           20
+
+Mouse buttons: 2
+Waveform Output Devices: 1
+Mouse wheel present: 0
+
+Monitors: 1
+Selected Monitor: V
+Same display format: 1
+Virtual screen x 0, y 0, w 1504 h 1003
+Root Window x 0, y 0, w 1504, h 963
+Exact StoreColor: 0
+Reverse RGB Order: 0
+
+Screen 0: 1504 x 963, depth 24, dpi 96 x 96
+Extension added: SHAPE, proc 128, event 64, error 0
+Extension added: Extended-Visual-Information, proc 129, event 0, error 0
+Extension added: XInputExtension, proc 130, event 65, error 128
+Extension added: XTEST, proc 131, event 0, error 0
+Extension added: BIG-REQUESTS, proc 132, event 0, error 0
+Extension added: MIT-SUNDRY-NONSTANDARD, proc 133, event 0, error 0
+Extension added: DEC-XTRAP, proc 134, event 80, error 133
+Extension added: SYNC, proc 135, event 81, error 142
+Extension added: XKEYBOARD, proc 136, event 83, error 144
+Extension added: XC-MISC, proc 137, event 0, error 0
+Extension added: RECORD, proc 138, event 0, error 145
+Extension added: DOUBLE-BUFFER, proc 139, event 0, error 146
+Extension added: XC-APPGROUP, proc 140, event 0, error 147
+Extension added: SECURITY, proc 141, event 84, error 148
+Extension added: TOG-CUP, proc 142, event 0, error 0
+Extension added: DPMS, proc 143, event 0, error 0
+Extension added: XFree86-Bigfont, proc 144, event 0, error 0
+Extension added: GLX, proc 145, event 85, error 150
+Extension added: XFIXES, proc 146, event 102, error 162
+Extension added: RENDER, proc 147, event 0, error 163
+Extension added: RANDR, proc 148, event 104, error 0
+Extension added: X-Resource, proc 149, event 0, error 0
+Extension added: DAMAGE, proc 150, event 105, error 168
+Keyboard: Type = 4, Subtype = 0, Function keys = 12
+Keyboad Layout: US (00000409)
+Found a matching keyboard layout: English (USA)
+Model: pc105, Layout: us, Variant: none, Options: none
+Keyboard layout to be used:
+Rules: xorg, Model: pc105, Layout: us, Variant: none, Options: none
+Running Xsound...
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Waiting for client connections ...
+
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Exiting the waiting loop ...
+
+FreeFontPath: FPE "C:\Program Files (x86)\NetSarang\Xmanager 6\fonts\Misc" refcount is 2, should be 1; fixing.
+
+Server Generation 3
+Server profile: %system%\Default Profile.xcf
+Desktop composition is enabled.
+Local Time:	Tue Jan 14 10:41:27 2020
+
+============ Global Memory Status ==========
+  Memory Load               :      68%
+  Total Physical Memory     :    8117 Mbytes
+  Available Physical Memory :    2558 Mbytes
+  Total Page File           :   17333 Mbytes
+  Available Page File       :    6217 Mbytes
+  Total Virtual             :    4095 Mbytes
+  Available Virtual         :    3957 Mbytes
+=============================================
+Window Mode:               1
+Primary Screen Resolution:         1504 x 1003
+Size of Palette:           0
+Number of Reserved Colors: 0
+Resolution of Color:       24
+Depth of Screen:           32
+Maximum Cursor Width:      32
+Maximum Cursor Height:     32
+Frame Width:               8
+Frame Height:              8
+Border Width:              1
+Border Height:             1
+Maximum Client Area Width: 1504
+Maximum Client Area Height:940
+Icon Width:                32
+Icon Height:               32
+Small Icon Width:          16
+Small Icon Height:         16
+Caption Height:            23
+Shade Blend Pixel Alpha:   1
+DBCS Enabled:              0
+GDI batch limit:           20
+
+Mouse buttons: 2
+Waveform Output Devices: 1
+Mouse wheel present: 0
+
+Monitors: 1
+Selected Monitor: V
+Same display format: 1
+Virtual screen x 0, y 0, w 1504 h 1003
+Root Window x 0, y 0, w 1504, h 963
+Exact StoreColor: 0
+Reverse RGB Order: 0
+
+Screen 0: 1504 x 963, depth 24, dpi 96 x 96
+Extension added: SHAPE, proc 128, event 64, error 0
+Extension added: Extended-Visual-Information, proc 129, event 0, error 0
+Extension added: XInputExtension, proc 130, event 65, error 128
+Extension added: XTEST, proc 131, event 0, error 0
+Extension added: BIG-REQUESTS, proc 132, event 0, error 0
+Extension added: MIT-SUNDRY-NONSTANDARD, proc 133, event 0, error 0
+Extension added: DEC-XTRAP, proc 134, event 80, error 133
+Extension added: SYNC, proc 135, event 81, error 142
+Extension added: XKEYBOARD, proc 136, event 83, error 144
+Extension added: XC-MISC, proc 137, event 0, error 0
+Extension added: RECORD, proc 138, event 0, error 145
+Extension added: DOUBLE-BUFFER, proc 139, event 0, error 146
+Extension added: XC-APPGROUP, proc 140, event 0, error 147
+Extension added: SECURITY, proc 141, event 84, error 148
+Extension added: TOG-CUP, proc 142, event 0, error 0
+Extension added: DPMS, proc 143, event 0, error 0
+Extension added: XFree86-Bigfont, proc 144, event 0, error 0
+Extension added: GLX, proc 145, event 85, error 150
+Extension added: XFIXES, proc 146, event 102, error 162
+Extension added: RENDER, proc 147, event 0, error 163
+Extension added: RANDR, proc 148, event 104, error 0
+Extension added: X-Resource, proc 149, event 0, error 0
+Extension added: DAMAGE, proc 150, event 105, error 168
+Keyboard: Type = 4, Subtype = 0, Function keys = 12
+Keyboad Layout: US (00000409)
+Found a matching keyboard layout: English (USA)
+Model: pc105, Layout: us, Variant: none, Options: none
+Keyboard layout to be used:
+Rules: xorg, Model: pc105, Layout: us, Variant: none, Options: none
+Running Xsound...
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Waiting for client connections ...
+
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Exiting the waiting loop ...
+
+FreeFontPath: FPE "C:\Program Files (x86)\NetSarang\Xmanager 6\fonts\Misc" refcount is 2, should be 1; fixing.
+
+Server Generation 4
+Server profile: %system%\Default Profile.xcf
+Desktop composition is enabled.
+Local Time:	Tue Jan 14 10:43:53 2020
+
+============ Global Memory Status ==========
+  Memory Load               :      67%
+  Total Physical Memory     :    8117 Mbytes
+  Available Physical Memory :    2662 Mbytes
+  Total Page File           :   17333 Mbytes
+  Available Page File       :    6259 Mbytes
+  Total Virtual             :    4095 Mbytes
+  Available Virtual         :    3964 Mbytes
+=============================================
+Window Mode:               1
+Primary Screen Resolution:         1504 x 1003
+Size of Palette:           0
+Number of Reserved Colors: 0
+Resolution of Color:       24
+Depth of Screen:           32
+Maximum Cursor Width:      32
+Maximum Cursor Height:     32
+Frame Width:               8
+Frame Height:              8
+Border Width:              1
+Border Height:             1
+Maximum Client Area Width: 1504
+Maximum Client Area Height:940
+Icon Width:                32
+Icon Height:               32
+Small Icon Width:          16
+Small Icon Height:         16
+Caption Height:            23
+Shade Blend Pixel Alpha:   1
+DBCS Enabled:              0
+GDI batch limit:           20
+
+Mouse buttons: 2
+Waveform Output Devices: 1
+Mouse wheel present: 0
+
+Monitors: 1
+Selected Monitor: V
+Same display format: 1
+Virtual screen x 0, y 0, w 1504 h 1003
+Root Window x 0, y 0, w 1504, h 963
+Exact StoreColor: 0
+Reverse RGB Order: 0
+
+Screen 0: 1504 x 963, depth 24, dpi 96 x 96
+Extension added: SHAPE, proc 128, event 64, error 0
+Extension added: Extended-Visual-Information, proc 129, event 0, error 0
+Extension added: XInputExtension, proc 130, event 65, error 128
+Extension added: XTEST, proc 131, event 0, error 0
+Extension added: BIG-REQUESTS, proc 132, event 0, error 0
+Extension added: MIT-SUNDRY-NONSTANDARD, proc 133, event 0, error 0
+Extension added: DEC-XTRAP, proc 134, event 80, error 133
+Extension added: SYNC, proc 135, event 81, error 142
+Extension added: XKEYBOARD, proc 136, event 83, error 144
+Extension added: XC-MISC, proc 137, event 0, error 0
+Extension added: RECORD, proc 138, event 0, error 145
+Extension added: DOUBLE-BUFFER, proc 139, event 0, error 146
+Extension added: XC-APPGROUP, proc 140, event 0, error 147
+Extension added: SECURITY, proc 141, event 84, error 148
+Extension added: TOG-CUP, proc 142, event 0, error 0
+Extension added: DPMS, proc 143, event 0, error 0
+Extension added: XFree86-Bigfont, proc 144, event 0, error 0
+Extension added: GLX, proc 145, event 85, error 150
+Extension added: XFIXES, proc 146, event 102, error 162
+Extension added: RENDER, proc 147, event 0, error 163
+Extension added: RANDR, proc 148, event 104, error 0
+Extension added: X-Resource, proc 149, event 0, error 0
+Extension added: DAMAGE, proc 150, event 105, error 168
+Keyboard: Type = 4, Subtype = 0, Function keys = 12
+Keyboad Layout: US (00000409)
+Found a matching keyboard layout: English (USA)
+Model: pc105, Layout: us, Variant: none, Options: none
+Keyboard layout to be used:
+Rules: xorg, Model: pc105, Layout: us, Variant: none, Options: none
+Running Xsound...
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Waiting for client connections ...
+
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Exiting the waiting loop ...
+
+FreeFontPath: FPE "C:\Program Files (x86)\NetSarang\Xmanager 6\fonts\Misc" refcount is 2, should be 1; fixing.
+
+Server Generation 5
+Server profile: %system%\Default Profile.xcf
+Desktop composition is enabled.
+Local Time:	Tue Jan 14 10:43:54 2020
+
+============ Global Memory Status ==========
+  Memory Load               :      67%
+  Total Physical Memory     :    8117 Mbytes
+  Available Physical Memory :    2643 Mbytes
+  Total Page File           :   17333 Mbytes
+  Available Page File       :    6242 Mbytes
+  Total Virtual             :    4095 Mbytes
+  Available Virtual         :    3964 Mbytes
+=============================================
+Window Mode:               1
+Primary Screen Resolution:         1504 x 1003
+Size of Palette:           0
+Number of Reserved Colors: 0
+Resolution of Color:       24
+Depth of Screen:           32
+Maximum Cursor Width:      32
+Maximum Cursor Height:     32
+Frame Width:               8
+Frame Height:              8
+Border Width:              1
+Border Height:             1
+Maximum Client Area Width: 1504
+Maximum Client Area Height:940
+Icon Width:                32
+Icon Height:               32
+Small Icon Width:          16
+Small Icon Height:         16
+Caption Height:            23
+Shade Blend Pixel Alpha:   1
+DBCS Enabled:              0
+GDI batch limit:           20
+
+Mouse buttons: 2
+Waveform Output Devices: 1
+Mouse wheel present: 0
+
+Monitors: 1
+Selected Monitor: V
+Same display format: 1
+Virtual screen x 0, y 0, w 1504 h 1003
+Root Window x 0, y 0, w 1504, h 963
+Exact StoreColor: 0
+Reverse RGB Order: 0
+
+Screen 0: 1504 x 963, depth 24, dpi 96 x 96
+Extension added: SHAPE, proc 128, event 64, error 0
+Extension added: Extended-Visual-Information, proc 129, event 0, error 0
+Extension added: XInputExtension, proc 130, event 65, error 128
+Extension added: XTEST, proc 131, event 0, error 0
+Extension added: BIG-REQUESTS, proc 132, event 0, error 0
+Extension added: MIT-SUNDRY-NONSTANDARD, proc 133, event 0, error 0
+Extension added: DEC-XTRAP, proc 134, event 80, error 133
+Extension added: SYNC, proc 135, event 81, error 142
+Extension added: XKEYBOARD, proc 136, event 83, error 144
+Extension added: XC-MISC, proc 137, event 0, error 0
+Extension added: RECORD, proc 138, event 0, error 145
+Extension added: DOUBLE-BUFFER, proc 139, event 0, error 146
+Extension added: XC-APPGROUP, proc 140, event 0, error 147
+Extension added: SECURITY, proc 141, event 84, error 148
+Extension added: TOG-CUP, proc 142, event 0, error 0
+Extension added: DPMS, proc 143, event 0, error 0
+Extension added: XFree86-Bigfont, proc 144, event 0, error 0
+Extension added: GLX, proc 145, event 85, error 150
+Extension added: XFIXES, proc 146, event 102, error 162
+Extension added: RENDER, proc 147, event 0, error 163
+Extension added: RANDR, proc 148, event 104, error 0
+Extension added: X-Resource, proc 149, event 0, error 0
+Extension added: DAMAGE, proc 150, event 105, error 168
+Keyboard: Type = 4, Subtype = 0, Function keys = 12
+Keyboad Layout: US (00000409)
+Found a matching keyboard layout: English (USA)
+Model: pc105, Layout: us, Variant: none, Options: none
+Keyboard layout to be used:
+Rules: xorg, Model: pc105, Layout: us, Variant: none, Options: none
+Running Xsound...
+Lock modifier mask: 0x2
+Lock modifier mask: 0x10
+
+Waiting for client connections ...
+

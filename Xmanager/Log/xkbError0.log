@@ -1,0 +1,45 @@
+The XKEYBOARD keymap compiler (xkbcomp) reports:
+> Error:            expected keysym, got XF86LogGrabInfo: line 44 of xfree86
+> Error:            expected keysym, got XF86LogWindowTree: line 47 of xfree86
+> Error:            expected keysym, got XF86_Ungrab: line 60 of xfree86
+> Error:            expected keysym, got XF86_ClearGrab: line 63 of xfree86
+> Warning:          Multiple interpretations of "NoSymbol+AnyOfOrNone(all)"
+>                   Using last definition for duplicate fields
+> Error:            expected keysym, got XF86KbdLightOnOff: line 63 of pc
+> Error:            expected keysym, got XF86KbdBrightnessDown: line 64 of pc
+> Error:            expected keysym, got XF86KbdBrightnessUp: line 65 of pc
+> Error:            expected keysym, got XF86_Ungrab: line 15 of srvr_ctrl
+> Error:            expected keysym, got XF86_ClearGrab: line 21 of srvr_ctrl
+> Error:            expected keysym, got XF86_Ungrab: line 87 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 93 of keypad
+> Error:            expected keysym, got XF86_Ungrab: line 245 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 246 of keypad
+> Error:            expected keysym, got XF86_Ungrab: line 272 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 273 of keypad
+> Error:            expected keysym, got XF86_Ungrab: line 300 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 301 of keypad
+> Error:            expected keysym, got XF86_Ungrab: line 326 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 327 of keypad
+> Error:            expected keysym, got XF86_Ungrab: line 509 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 510 of keypad
+> Error:            expected keysym, got XF86_ClearGrab: line 605 of keypad
+> Error:            expected keysym, got XF86_Ungrab: line 631 of keypad
+> Error:            expected keysym, got XF86Battery: line 56 of inet
+> Error:            expected keysym, got XF86WLAN: line 57 of inet
+> Error:            expected keysym, got XF86TouchpadToggle: line 119 of inet
+> Error:            expected keysym, got XF86TouchpadOn: line 120 of inet
+> Error:            expected keysym, got XF86TouchpadOff: line 121 of inet
+> Error:            expected keysym, got XF86Suspend: line 180 of inet
+> Error:            expected keysym, got XF86AudioForward: line 183 of inet
+> Error:            expected keysym, got XF86MonBrightnessDown: line 199 of inet
+> Error:            expected keysym, got XF86MonBrightnessUp: line 200 of inet
+> Error:            expected keysym, got XF86KbdLightOnOff: line 203 of inet
+> Error:            expected keysym, got XF86KbdBrightnessDown: line 204 of inet
+> Error:            expected keysym, got XF86KbdBrightnessUp: line 205 of inet
+> Error:            expected keysym, got XF86Battery: line 211 of inet
+> Error:            expected keysym, got XF86Bluetooth: line 212 of inet
+> Error:            expected keysym, got XF86WLAN: line 213 of inet
+> Error:            expected keysym, got XF86Hibernate: line 220 of inet
+> Error:            expected keysym, got XF86MonBrightnessUp: line 1838 of inet
+> Error:            expected keysym, got XF86MonBrightnessDown: line 1839 of inet
+Errors from xkbcomp are not fatal to the X server
