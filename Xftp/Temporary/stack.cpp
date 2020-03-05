@@ -32,14 +32,13 @@ template <class T> Stack<T>::~Stack()
 }
 
 /**
- * Adds the parameter object to the top of the Stack. That is, the
- * element should go at the beginning of the list. If the dynamic array
+ * Adds the parameter object to the top of the Stack. If the dynamic array
  * holding the stack elements is full the array should be resized. Resize should be
  * called by multiplying  current capacity EXPANSIONFACTOR defined in stack.h.
  * To be clear resize should happen before adding the element to the stack and only
  * when the stack is completely full.
  *
- * @param value The object to be added to the Stack.
+ * &#64;param value The object to be added to the Stack.
  */
 template <class T>
 void Stack<T>::push(const T &newItem){
@@ -53,14 +52,16 @@ void Stack<T>::push(const T &newItem){
      }
 };
 
+
 /**
- * Removes the object on top of the Stack, and returns it. That is, remove
- * the element at the beginning of the list. You may assume this function
+ * Removes the object on top of the Stack, and returns it. You may assume this function
  * is only called when the Stack is not empty. If the size of the stack changes
  * to strictly less than 1 / SHRINKRATE (where SHRINKRATE is defined in stack.h)
  * after the item is removed the Stack should be resized to 1 / EXPANSIONFACTOR.
+ * The capacity of the stack should never decrease below DEFAULTCAPACITY to avoid
+ * corner cases where the stack size goes to zero.
  *
- * @return The element that used to be at the top of the Stack.
+ * &#64;return The element that used to be at the top of the Stack.
  */
 template <class T>
 T Stack<T>::pop(){
