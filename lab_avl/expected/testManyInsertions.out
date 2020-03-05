@@ -1,0 +1,26 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[1mTesting Many Insertions[22m
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+rotateRight
+rotateRight
+rotateRight
+rotateRight
+rotateRightLeft
+rotateRight
+rotateLeft
+rotateLeft
+rotateLeftRight
+rotateLeft
+rotateRight
+rotateRight
+                        ______ 61 _____                          
+                 ______/               \______                   
+            __ 26 _                         __ 87 _              
+         __/       \__                   __/       \__           
+       17              36              76              94        
+     /   \           /   \           /   \           /   \       
+   3       23      31      42      73      78      92      96    
+  / \     / \             / \     / \       \       \     /      
+ 1   11  18  24          41  45  71  74      82      93  95      
+
+

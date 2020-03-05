@@ -1,0 +1,27 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[1mTesting Many Removals[22m
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+rotateRight
+rotateRight
+rotateRight
+rotateRight
+rotateRightLeft
+rotateRight
+rotateLeft
+rotateLeft
+rotateLeftRight
+rotateLeft
+rotateRight
+rotateRight
+rotateLeft
+                        ______ 45 _____                          
+                 ______/               \______                   
+            __ 26 _                         __ 87 _              
+         __/       \__                   __/       \__           
+       17              36              78              93        
+     /   \           /   \           /   \           /   \       
+   3       23      31      42      74      82      92      96    
+  / \     / \             /                                      
+ 1   11  18  24          41                                      
+
+
