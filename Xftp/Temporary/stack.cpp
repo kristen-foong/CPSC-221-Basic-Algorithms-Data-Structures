@@ -68,6 +68,17 @@ T Stack<T>::pop(){
     /**
      * @todo Your code here!
      */
+     T* temp = *items[items->size() - 1];
+     if(items->size() < (1/SHRINKRATE)) {
+       T* arr = new T[(1/EXPANSIONFACTOR)];
+       for(int i = 0; i < (items->size() - 2); i++) {
+         arr[i] = items[i];
+       }
+     }
+     delete items;
+     items = arr;
+     num_items = items->size();
+     return temp;
 };
 
 /**
