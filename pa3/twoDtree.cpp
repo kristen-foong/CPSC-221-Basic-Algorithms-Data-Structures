@@ -35,15 +35,22 @@ twoDtree & twoDtree::operator=(const twoDtree & rhs){
 	return *this;
 }
 
-twoDtree::twoDtree(PNG & imIn){ 
+twoDtree::twoDtree(PNG & imIn){
 
-// YOUR CODE HERE
+	// YOUR CODE HERE
+	height = imIn.height();
+	width = imIn.width();
+	pair<int, int> ul = make_pair(0,0);
+	pair<int, int> lr = make_pair(width-1, height-1);
+	stats s(imIn);
+	bool v = true;
+	root = buildTree(stat, ul, lr, v);
 
 }
 
 twoDtree::Node * twoDtree::buildTree(stats & s, pair<int,int> ul, pair<int,int> lr, bool vert) {
 
-// YOUR CODE HERE!!
+	// YOUR CODE HERE!!
 
 }
 
@@ -60,7 +67,7 @@ int twoDtree::idealPrune(int leaves){
 }
 
 int twoDtree::pruneSize(int tol){
-    
+
 // YOUR CODE HERE!!
 
 }
@@ -82,6 +89,3 @@ void twoDtree::copy(const twoDtree & orig){
 // YOUR CODE HERE!!
 
 }
-
-
-
